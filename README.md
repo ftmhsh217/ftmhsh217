@@ -1,16 +1,25 @@
-## Hi there 👋
+# fadak
 
-<!--
-**ftmhsh217/ftmhsh217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## this is a project
 
-Here are some ideas to get you started:
+#### it is my uni project 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i am a **student**
+
+![software](https://webshift.ir/wp-content/uploads/2022/11/h68x0up43hmknl5tjcww-1536x864.jpg)
+
+```python
+a=0
+print(a)
+```
+
+- Python
+- Deep learning
+- RNN
+- CNN
+- NLP
+
+> This is Test.
+> > This is another
+
+![skill](https://lancersara.com/wp-content/uploads/2023/10/Software-Developer-vs-Software-Engineer.jpg)
